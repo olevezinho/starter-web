@@ -17,3 +17,13 @@ This is a simple web project, deployment can be on any web server or even local 
 ## How To Contribute
 
 To contribuite, just fork the project to your personal repository and start editing.
+
+### Do as follows
+
+```
+$ git init
+$ git clone [projectLink]
+$ eval $(ssh-agent -s)
+$ ssh-add your_key_path
+```
+
