@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Luis Brochado       lfiipecosta3@gmail.com      @awesome
 
 # THANKS
 
