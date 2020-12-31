@@ -29,5 +29,5 @@ $ ssh-add your_key_path
 
 ### Copyright
 
-2014 Git.Traingin
+2014 Git.Trainging.
 
