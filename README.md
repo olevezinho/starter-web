@@ -27,3 +27,7 @@ $ eval $(ssh-agent -s)
 $ ssh-add your_key_path
 ```
 
+### Copyright
+
+2014 Git.Traingin
+
