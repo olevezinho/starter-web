@@ -16,7 +16,7 @@ This is a simple web project, deployment can be on any web server or even local 
 
 ## How To Contribute
 
-To contribuite, just fork the project to your personal repository and start editing.
+To contribuite, just fork the project to your personal repository and start editing. After that issue pull requests for review.
 
 ### Do as follows
 
