@@ -5,10 +5,10 @@
 -->
 <head>
 <<<<<<< HEAD
-	<title>A Very respectful website</title>
+	<title>A Very very respectful website</title>
 =======
-	<title>A Great website</title>
->>>>>>> real-work
+	<title>A Very good website</title>
+>>>>>>> realwork
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -23,19 +23,14 @@
 	<!-- Content Goes Here -->
 		<p>
 <<<<<<< HEAD
-			I'm not sure what will go here but
-			I'm sure it will be nice.
-		</p>
-	</main>
-	<footer class="container">
-		<p>&copy; Filipe Costa 2014</p>
+			Some interesting stuff goes here to test
 =======
-			Some interesting stuff goes here
+			Some interesting stuff goes here from now on
+>>>>>>> realwork
 		</p>
 	</main>
 	<footer class="container">
 		<p>&copy; Git.Trainging. 2014</p>
->>>>>>> real-work
 	</footer>
 </body>
 </html>
