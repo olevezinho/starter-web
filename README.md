@@ -5,6 +5,7 @@ This repository is for showing how Git and GitHub work together.
 ## Introduction
 
 This is an example to show different parts of the Git repository and various commands using a web project.
+Adding a line for rebasing example.
 
 ## Purpose
 
